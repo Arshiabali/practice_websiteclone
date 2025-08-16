@@ -65,9 +65,7 @@ html,body{
     scroll-behavior:smooth;
     flex: 0 0 auto;
 }
-.nav{
-    display: flex;
-}
+
 #logo{
     height: 77%;
     margin: 20px;    
@@ -316,6 +314,7 @@ padding-top: 10px;
     margin-bottom: 15px;
 
 }
+
 
 
 
