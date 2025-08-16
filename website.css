@@ -227,9 +227,9 @@ padding-top: 10px;
     margin-top: 55px;
     padding: 0 20px;
     white-space: nowrap;
-   overflow-x: auto
+    overflow-x: auto;
    -webkit-overflow-scrolling: touch;
-   flex : 0 0 auto;
+    flex: 0 0 auto;
     width:100%;
     max-width:700px;
 }
@@ -312,6 +312,7 @@ padding-top: 10px;
     margin-bottom: 15px;
 
 }
+
 
 
 
