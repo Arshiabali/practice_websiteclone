@@ -230,6 +230,7 @@ padding-top: 10px;
    overflow-x: auto
    -webkit-overflow-scrolling: touch;
    flex : 0 0 auto;
+    width:100%;
 }
 
 
@@ -310,6 +311,7 @@ padding-top: 10px;
     margin-bottom: 15px;
 
 }
+
 
 
 
