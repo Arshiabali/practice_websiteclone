@@ -10,6 +10,14 @@
     width: 100%; /* overrides fixed px width */
     padding: 10px;
     max-width: 1200px;
+         h2{
+        font-size: 1.4rem;
+    }
+    p{
+        font-size: 0.9rem;
+        line-height: 1.4;
+        padding: 0 10px;
+    }
   }
 }
 
@@ -255,10 +263,11 @@ padding-top: 10px;
     background-position: center;
     height: auto;
     background-repeat: no-repeat;
+    flex-wrap: wrap;
 }
 
 .about-card {
-    
+    flex: 1 1 300px;
     padding: 20px;
     border-radius: 10px;
     flex: 1;
@@ -283,4 +292,5 @@ padding-top: 10px;
     margin-bottom: 15px;
 
 }
+
 
