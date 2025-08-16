@@ -62,6 +62,8 @@ html,body{
     overflow-x: auto;
     white-space:nowrap;
     -webkit-overflow-scrolling: touch;
+    scroll-behavior:smooth;
+    flex: 0 0 auto;
 }
 .nav{
     display: flex;
@@ -308,5 +310,6 @@ padding-top: 10px;
     margin-bottom: 15px;
 
 }
+
 
 
