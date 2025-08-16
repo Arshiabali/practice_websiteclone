@@ -10,6 +10,13 @@
     width: 100%; /* overrides fixed px width */
     padding: 10px;
     max-width: 1200px;
+        .about-card{
+        max-width: 90%;
+    }
+    .about-section{
+        flex-direction: column;
+        align-items: center;
+    }
          h2{
         font-size: 1.4rem;
     }
@@ -292,5 +299,6 @@ padding-top: 10px;
     margin-bottom: 15px;
 
 }
+
 
 
